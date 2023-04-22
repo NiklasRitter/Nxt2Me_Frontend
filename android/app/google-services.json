@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "103995926772",
+    "project_id": "event-app-ks",
+    "storage_bucket": "event-app-ks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103995926772:android:a77d4f41bc326a8a1416a1",
+        "android_client_info": {
+          "package_name": "com.event_app.event_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103995926772-444olhv69vjb9oub8ojrjdbibdh3r6va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOYwNNGj5YyVCf_lZHUsRZlC8yYTxGt9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103995926772-444olhv69vjb9oub8ojrjdbibdh3r6va.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
