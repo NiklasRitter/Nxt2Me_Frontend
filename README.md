@@ -31,7 +31,7 @@ To test the Nxt2Me application, you have to clone both repositories.
 
 | Login Page         | Overview of Events | Details Page       | Add Event Pages |
 | ------------ | --- | ---------- | ---------- |
-| <img src="event_app/assets/images/Login_Page.png" width="150">  |<img src="event_app/assets/images/MyEvents_Page.png" width="150">   | <img src="event_app/assets/images/EventDetail_Page.png" width="150">   |  <img src="event_app/assets/images/AddEventPage_1.png" width="150"> <img src="event_app/assets/images/AddEventPage_2.png" width="150"> |
+| <img src="event_app/assets/images/Login_Page.png" width="120">  |<img src="event_app/assets/images/MyEvents_Page.png" width="120">   | <img src="event_app/assets/images/EventDetail_Page.png" width="120">   |  <img src="event_app/assets/images/AddEventPage_1.png" width="120"> <img src="event_app/assets/images/AddEventPage_2.png" width="120"> |
 
 [More Screenshots here]( https://github.com/NiklasRitter/Nxt2Me_Frontend/tree/main/event_app/assets/images) 
 
