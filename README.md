@@ -36,4 +36,5 @@ To test the Nxt2Me application, you have to clone both repositories.
 [More Screenshots here]( https://github.com/NiklasRitter/Nxt2Me_Frontend/tree/main/event_app/assets/images) 
 
 ## Authors and acknowledgment
-This project was developed as a university group project.
+This project was developed as a university group project.<br/>
+Group members: [Aaron](https://github.com/AaronWagener), [Eric](https://github.com/EricRode), [Niklas](https://github.com/NiklasRitter)
